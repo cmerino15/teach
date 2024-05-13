@@ -1,17 +1,30 @@
-# Basic output and data types
+# Basic output, data types, and operations
 
 In c++ we have to **declare** our variables for the data we would like to use. 
-We'll be working with 3 data types for now. 
-
-1. int: integers 
-2. string: strings 
-3. double: decimal values
+We'll be working with 3 `data types` for now. 
 
 <details>
-<summary> datatypes </summary>
+<summary> data types </summary>
 
 1. int: integers 
 2. string: strings 
 3. double: decimal values
 
 </details>
+
+We can do basic math operations on ints and doubles. some care must be taking when using the divison / and modulo % operations however. 
+
+> [!NOTE]
+> Throughout this tutorial you may need to research the details on your own. 
+> The purpose if this course is to get you started quick but also to get you thinking. 
+
+> Example: main.cpp
+
+```cpp
+#include <iostream>
+int main(){
+   int x = 5; // the int x is declared to be an int and assigned the value 5. 
+              // declaring and assigning is known as initializing
+
+}
+```
