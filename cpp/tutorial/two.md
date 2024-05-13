@@ -23,8 +23,14 @@ We can do basic math operations on ints and doubles. Some care must be taking wh
 ```cpp
 #include <iostream>
 int main(){
-   int x = 5; // the int x is declared to be an int and assigned the value 5. 
-              // declaring and assigning is known as initializing
+   int x = 5; // the int, x, is declared to be an int and assigned the value 5. 
+              // declaring and assigment is known as initializing
+   std::string name; // the string, name, is declared. 
+   name = "John"; // and assigned the value John 
+
+   std::cout << "Hi, " << name << std::endl; // we can ouput different data by separating each thing with <<
+   // notice the comma *and* the space after hi. endl makes a new line and comes from thr standard namespace
+   std::cout << "the integer in x is " << x << std::endl;
 
 }
 ```
