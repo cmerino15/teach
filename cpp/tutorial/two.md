@@ -7,3 +7,11 @@ We'll be working with 3 data types for now.
 2. string: strings 
 3. double: decimal values
 
+<details>
+<summary> datatypes </summary>
+
+1. int: integers 
+2. string: strings 
+3. double: decimal values
+
+</details>
