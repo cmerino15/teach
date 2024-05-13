@@ -12,11 +12,11 @@ We'll be working with 3 `data types` for now.
 
 </details>
 
-We can do basic math operations on ints and doubles. some care must be taking when using the divison / and modulo % operations however. 
+We can do basic math operations on ints and doubles. Some care must be taking when using the divison / and modulo % operations however. 
 
 > [!NOTE]
 > Throughout this tutorial you may need to research the details on your own. 
-> The purpose if this course is to get you started quick but also to get you thinking. 
+> The purpose of this course is to get you started quick but also to get you thinking. 
 
 > Example: main.cpp
 
