@@ -29,8 +29,14 @@ int main(){
    name = "John"; // and assigned the value John 
 
    std::cout << "Hi, " << name << std::endl; // we can ouput different data by separating each thing with <<
-   // notice the comma *and* the space after hi. endl makes a new line and comes from thr standard namespace
-   std::cout << "the integer in x is " << x << std::endl;
+   // notice the comma AND the space after hi. endl makes a new line and comes from the standard namespace
+   std::cout << "the integer in x is " << 10*x << std::endl; // multiply x by 10
 
 }
+```
+
+> output
+```console
+   Hi, John
+   the integer in x is 50
 ```
