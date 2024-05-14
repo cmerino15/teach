@@ -11,7 +11,7 @@ Cpp
 - Examples
 - QT
 - Arduino
-- Managing projects using Git
+- Managing projects using <mark> Git </mark>
 
 Python
 - Tutorial
@@ -25,4 +25,16 @@ Python
 
 - [Modern Cpp Reference](https://github.com/changkun/modern-cpp-tutorial)
 - [Beginner Cpp Examples](https://github.com/tridibsamanta/CPP_Beginner_to_Expert)
+- [Roadmaps](https://roadmap.sh/)
+- [Collection of Resources](https://toolkit.addy.codes/)
+- [Examples of Python Graphs](https://python-charts.com/)
+- [More Examples of Python Graphs](https://python-graph-gallery.com/)
+- [Data to Graphs](https://www.data-to-viz.com/)
+
+# Learning Sites 
+- [The Odin Project](https://www.theodinproject.com/)
+- [Code Academy](https://www.codecademy.com/)
+- [Free Code Camp](https://www.freecodecamp.org/)
+- [Udacity](https://www.udacity.com/)
+- [Future Coder](https://futurecoder.io/)
 - 
