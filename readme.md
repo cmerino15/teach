@@ -30,6 +30,9 @@ Python
 - [Examples of Python Graphs](https://python-charts.com/)
 - [More Examples of Python Graphs](https://python-graph-gallery.com/)
 - [Data to Graphs](https://www.data-to-viz.com/)
+- [Coding Examples](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file)
+- [First Issues](https://goodfirstissues.com/)
+- [First Issues - 2](https://goodfirstissue.dev/language/cplusplus)
 
 # Learning Sites 
 - [The Odin Project](https://www.theodinproject.com/)
@@ -37,4 +40,5 @@ Python
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [Udacity](https://www.udacity.com/)
 - [Future Coder](https://futurecoder.io/)
-- [Udemy]
+- [Udemy](https://www.udemy.com/)
+- 
