@@ -11,7 +11,7 @@ Cpp
 - Examples
 - QT
 - Arduino
-- Managing projects using <mark> Git </mark>
+- Managing projects using **git**
 
 Python
 - Tutorial
@@ -23,14 +23,22 @@ Python
   
 # Links
 
-- [Modern Cpp Reference](https://github.com/changkun/modern-cpp-tutorial)
-- [Beginner Cpp Examples](https://github.com/tridibsamanta/CPP_Beginner_to_Expert)
 - [Roadmaps](https://roadmap.sh/)
 - [Collection of Resources](https://toolkit.addy.codes/)
-- [Examples of Python Graphs](https://python-charts.com/)
-- [More Examples of Python Graphs](https://python-graph-gallery.com/)
 - [Data to Graphs](https://www.data-to-viz.com/)
 - [Coding Examples](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file)
+## C++
+
+- [Modern Cpp Reference](https://github.com/changkun/modern-cpp-tutorial)
+- [Beginner Cpp Examples](https://github.com/tridibsamanta/CPP_Beginner_to_Expert)
+
+## Python
+
+- [Examples of Python Graphs](https://python-charts.com/)
+- [More Examples of Python Graphs](https://python-graph-gallery.com/)
+
+## Git
+- [Contributing Tutorial - try this before the following two links](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file)
 - [First Issues](https://goodfirstissues.com/)
 - [First Issues - 2](https://goodfirstissue.dev/language/cplusplus)
 
