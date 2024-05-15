@@ -35,10 +35,10 @@ Python
 - [First Issues - 2](https://goodfirstissue.dev/language/cplusplus)
 
 # Learning Sites 
-- [The Odin Project](https://www.theodinproject.com/)
-- [Code Academy](https://www.codecademy.com/)
-- [Free Code Camp](https://www.freecodecamp.org/)
-- [Udacity](https://www.udacity.com/)
-- [Future Coder](https://futurecoder.io/)
-- [Udemy](https://www.udemy.com/)
+- [The Odin Project](https://www.theodinproject.com/) - found at the end of free code camp as well
+- [Code Academy](https://www.codecademy.com/) - like udemy but tailored for programming
+- [Free Code Camp](https://www.freecodecamp.org/) - lots of resources/ help
+- [Udacity](https://www.udacity.com/) - paid
+- [Future Coder](https://futurecoder.io/) - basics of shell and python - good for a brand new coder
+- [Udemy](https://www.udemy.com/) - more than programming courses
 - 
