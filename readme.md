@@ -21,12 +21,14 @@ Python
 - Tkinter
 - Web Scraping
   
-# Links
+# Miscellanous Links
 
 - [Roadmaps](https://roadmap.sh/)
 - [Collection of Resources](https://toolkit.addy.codes/)
 - [Data to Graphs](https://www.data-to-viz.com/)
-- [Coding Examples](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file)
+  
+- [Coding Examples](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file) - Examples for lots of programming languages
+
 ## C++
 
 - [Modern Cpp Reference](https://github.com/changkun/modern-cpp-tutorial)
@@ -42,11 +44,17 @@ Python
 - [First Issues](https://goodfirstissues.com/)
 - [First Issues - 2](https://goodfirstissue.dev/language/cplusplus)
 
-# Learning Sites 
-- [The Odin Project](https://www.theodinproject.com/) - found at the end of free code camp as well
-- [Code Academy](https://www.codecademy.com/) - like udemy but tailored for programming
-- [Free Code Camp](https://www.freecodecamp.org/) - lots of resources/ help
-- [Udacity](https://www.udacity.com/) - paid
-- [Future Coder](https://futurecoder.io/) - basics of shell and python - good for a brand new coder
-- [Udemy](https://www.udemy.com/) - more than programming courses
-- 
+# Other Tutorials
+
+- [Future Coder](https://futurecoder.io/) - Basics of shell and python - good for a brand new coder
+
+- [LearnCpp](https://www.learncpp.com/) - A must for C++
+  
+- [Code Academy](https://www.codecademy.com/) - Like udemy but tailored for programming
+  
+- [Free Code Camp](https://www.freecodecamp.org/) - Lots of resources/ help but not c++ oriented
+- [The Odin Project](https://www.theodinproject.com/) - Found at the end of free code camp as well
+
+- [Udemy](https://www.udemy.com/) - More than programming courses
+
+- [Udacity](https://www.udacity.com/) - Paid
