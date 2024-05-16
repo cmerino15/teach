@@ -16,21 +16,25 @@ We can do basic math operations on ints and doubles. Some care must be taking wh
 
 > [!NOTE]
 > Throughout this tutorial you may need to research the details on your own. 
-> The purpose of this course is to get you started quick but also to get you thinking. 
+> The purpose of this course is to get you started quick but also to get you thinking.
+> A good website for more details is [learncpp](https://www.learncpp.com/)
 
 > Example: main.cpp
 
 ```cpp
 #include <iostream>
 int main(){
-   int x = 5; // the int, x, is declared to be an int and assigned the value 5. 
+   int x = 5; // the integer, x, is declared to be an int and assigned the value 5. 
               // declaring and assigment is known as initializing
+
+   // the equals symbol is used to assign values after operations
+   x = x + 2;  // from right to left, two is added to x and THEN the new value is assigned to x
    std::string name; // the string, name, is declared. 
    name = "John"; // and assigned the value John 
 
    std::cout << "Hi, " << name << std::endl; // we can ouput different data by separating each thing with <<
    // notice the comma AND the space after hi. endl makes a new line and comes from the standard namespace
-   std::cout << "the integer in x is " << 10*x << std::endl; // multiply x by 10
+   std::cout << "the integer in x is " << 10*x << std::endl; // multiply x by 10, remember that x now holds the value 7
 
 }
 ```
@@ -38,5 +42,6 @@ int main(){
 > output
 ```console
    Hi, John
-   the integer in x is 50
+   the integer in x is 70
 ```
+
