@@ -33,9 +33,11 @@ Python
 
 ## C++
 
+- [Gentle Intro to Modern Cpp](https://github.com/federico-busato/Modern-CPP-Programming)
+- 
 - [Modern Cpp Reference](https://github.com/changkun/modern-cpp-tutorial)
 - [Beginner Cpp Examples](https://github.com/tridibsamanta/CPP_Beginner_to_Expert)
-- [Modern Cpp Tutorial](https://github.com/federico-busato/Modern-CPP-Programming)
+
 - [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [Thinking in C++ - Book](https://archive.org/details/TICPP2ndEdVolTwo)
 
