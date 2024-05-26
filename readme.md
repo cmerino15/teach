@@ -67,6 +67,9 @@ Started: 5/12/24
 
 - [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features)
 
+- [Compiler Explorer](https://godbolt.org/)
+- [Cpp Insights](https://cppinsights.io/)
+
 ### Youtube
 
 - [The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
