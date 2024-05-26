@@ -29,6 +29,7 @@ Started: 5/12/24
 - Tutorial
 - Jupyter Notebooks vs Google Collab - When to Use
 - Examples
+- Package Managers: pip
 - Virtual Environments
 - Tkinter
 - Web Scraping
