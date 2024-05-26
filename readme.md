@@ -21,16 +21,18 @@ Started: 5/12/24
 - Examples
 - QT
 - Arduino
+- Libraries: Boost, Eigen, etc.
 - Plotting: gnuplot -> matplotplusplus
 - CMake
 
 ### Python
 - Tutorial
-- Google Collab
+- Jupyter Notebooks vs Google Collab - When to Use
 - Examples
 - Virtual Environments
 - Tkinter
 - Web Scraping
+- Data Science: Numpy, Tensorflow, SciPlot, etc.
 - Plotting: MatPlotLib
 
 ### WebDev
