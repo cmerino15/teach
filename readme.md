@@ -33,11 +33,15 @@ Started: 5/12/24
 - Virtual Environments
 - Tkinter
 - Web Scraping
-- Data Science: Numpy, Tensorflow, SciPlot, etc.
-- Plotting: MatPlotLib
+- Data Science: Numpy, Tensorflow, SciPlot, Pandas, etc.
+- Plotting: MatPlotLib, Seaborn
+- Frameworks: Django
 
 ### WebDev
 - Suggested Path (for those that are lost with all the options)
+- Package Managers: npm
+- Database: MySQL
+- Frameworks: React, Angular, Vue (js), BootStrap (css), 
   
 ## Miscellanous Resources (mix of webdev, python, git, and c++)
 
