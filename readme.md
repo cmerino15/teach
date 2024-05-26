@@ -82,11 +82,11 @@ Started: 5/12/24
 - [Examples of Python Graphs](https://python-charts.com/)
 - [More Examples of Python Graphs](https://python-graph-gallery.com/)
 
-## WebDev Resources
+## WebDev Resources - The following three links are, in my opinion, the best way to start
 
-- [Free Code Camp](https://www.freecodecamp.org/) - Lots of resources/ help. In my opinion, the best.
-
-- [The Odin Project](https://www.theodinproject.com/) - Remix found at the end of free code camp
+- [Free Code Camp](https://www.freecodecamp.org/) 
+- [MDN DOCS](https://developer.mozilla.org/en-US/)
+- [The Odin Project](https://www.theodinproject.com/) 
 
 ## Git
 
