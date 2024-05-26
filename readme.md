@@ -6,20 +6,28 @@ Started: 5/12/24
 > In my experience the toughest part of learning programming is getting started with basic examples. I'll use this page to help people get started with the basics.
 
 ## Table of Contents
-Cpp
+
+### Managing projects using
+  - git
+  - github
+  - 
+ 
+### Cpp
 - Tutorial
 - Examples
 - QT
 - Arduino
-- Managing projects using **git**
+- Plotting: gnuplot -> matplotplusplus
 
-Python
+### Python
 - Tutorial
 - Google Collab
 - Examples
 - Virtual Environments
 - Tkinter
 - Web Scraping
+- Plotting: MatPlotLib
+
   
 # Miscellanous Links
 
@@ -31,6 +39,12 @@ Python
   
 - [Coding Examples](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file) - Examples for lots of programming languages
 
+- [Free Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)
+
+- [Design Resources - Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers?tab=readme-ov-file#)
+
+- [More Resources - markodenic](https://github.com/markodenic/web-development-resources?tab=readme-ov-file#learning-platforms)
+
 ## C++
 
 - [Gentle Intro to Modern Cpp](https://github.com/federico-busato/Modern-CPP-Programming)
@@ -40,6 +54,7 @@ Python
 
 - [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [Thinking in C++ - Book](https://archive.org/details/TICPP2ndEdVolTwo)
+
 
 ## Python
 
