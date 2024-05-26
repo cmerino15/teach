@@ -41,7 +41,7 @@ Started: 5/12/24
 - Suggested Path (for those that are lost with all the options)
 - Package Managers: npm
 - Database: MySQL
-- Frameworks: React, Angular, Vue (js), BootStrap (css), 
+- Frameworks: React(js library), Angular (based on typescript), Vue (simpler of 3, js), BootStrap (css), 
   
 ## Miscellanous Resources (mix of webdev, python, git, and c++)
 
