@@ -8,7 +8,7 @@ Fast forward to now...
 
 Microsoft realeases Windows Terminal -  A very useful application that allows the easy use and management of all three of the above and other shells.
 
-In my tutorial I'll start with a basic CMD tutorial. The reason is becaus a lot of documentation and tutorials online have commands that use CMD. 
+In this tutorial, we'll start with a basic commands. The reason is becaus a lot of current documentation and tutorials online have commands that use CMD. 
 
 I'll then move on to Powershell so that you get acquanted with that Shell. 
 
