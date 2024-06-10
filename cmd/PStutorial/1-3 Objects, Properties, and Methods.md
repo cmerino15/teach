@@ -1,8 +1,8 @@
 
-We can get basi info on a service
+We can get basic info on a service
 
 ```PowerShell
-get-service w32time // will display some properties
+get-service w32time # will display some properties
 ````
 
 To list all members, functions, and properties
