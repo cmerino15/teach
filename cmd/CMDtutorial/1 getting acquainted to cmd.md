@@ -2,8 +2,11 @@
 
 You can use the following keyboard shortcut from anywhere to open the command prompt in your root directory. Usually `C:\Users\username`
 
-> wndw+r
+> wndw+r // to bring up the run prompt
 > enter
+
+> [!NOTE]
+> If you have opened another program with the run prompt, this keyboard shortcut may just open that program again. In that case, make sure you type `cmd` into the prompt before you hit enter.
 
 Alternatively, you can open the CMD in any other directory by clicking on the address field of that directory and typing `cmd` then hitting enter.
 
