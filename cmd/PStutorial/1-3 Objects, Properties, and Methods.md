@@ -34,3 +34,9 @@ To display methods
 get-service | get-member -membertype method
 ```
 
+Try, to see the powershell process with members   
+
+```PowerShell
+get-process powershell | get-member
+```
+
