@@ -7,3 +7,4 @@ For further reading on PowerShell cmds see [microsoft PowerShell docs](https://l
 
 For futher reading on Windows Terminal see [microsoft WT docs](https://learn.microsoft.com/en-us/windows/terminal/command-line-arguments?tabs=windows)
 
+Tools [explainshell](https://explainshell.com/)
