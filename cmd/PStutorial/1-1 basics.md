@@ -1,7 +1,7 @@
 # Basic commands similar to cmd
 
 Instead of `dir` we can `Get-ChildItem` to see the files in a directory
-This is a bit more to type, but it comes a lot more functionality
+This is a bit more to type, but it comes with a lot more functionality
 For example, to see the list of items or 'children' in a *all* subdirectories we can use the -recurse option.
 Likewise, we can use Get-Help
 
@@ -16,8 +16,6 @@ Get-ChildItem -depth 1 # will list as far as 1 subdirectory
 ```
 
 The `tree` command works just as it does in CMD
-
-
 
 The `Get-verb` command lists the verb commands with their types
 
