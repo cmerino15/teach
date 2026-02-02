@@ -2,25 +2,19 @@
 
 You can use the following keyboard shortcut from anywhere to open the command prompt in your root directory. Usually `C:\Users\username`
 
-> wndw+r // to bring up the run prompt.
-
-Then 
-
-> enter
+> wndw+r
+> type 'cmd' and then hit enter
 
 > [!NOTE]
-> If you have opened another program with the run prompt, this keyboard shortcut may just open that program again. In that case, make sure you type 'cmd' into the prompt before you hit enter.
+> Alternatively, you can open the CMD in any other directory by clicking on the address field of that directory and typing `cmd` then hitting enter.
 
-Alternatively, you can open the CMD in any other directory by clicking on the address field of that directory and typing `cmd` then hitting enter.
+The `help` command - display a list of commands that are available.
 
-To see some basic commands you can use the help command. This will display a list of commands that are available. Don't worry if it's a little overwhelming at first.
-
-```console
+```sh
 help
 ```
 
 To see some more info on some of the commands listed use `/?` 
-For example
 
 ```console
 dir /?
